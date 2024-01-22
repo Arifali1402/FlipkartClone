@@ -1,1 +1,1 @@
-# This is just for Practice
+# I have made a website clone of Flipkart where I have used only HTML and CSS. I have only created the Front End.
